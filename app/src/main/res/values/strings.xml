@@ -2,13 +2,13 @@
 
     <!-- URLs -->
     <string name="STREAM_URL_RADIO">https://relay0.r-a-d.io/main.mp3</string>
-    <string name="STREAM_URL_TSUMUGI">http://shelter.mahoro-net.org:8000/tsumugi</string>
+    <string name="STREAM_URL_TSUMUGI">https://cleo.shoutca.st/radio/8190/radiogiardino.mp3</string>
     <string name="STREAM_URL_RSTLSS">http://stream.radiosolution.fr/rstlss.mp3</string>
     <string name="github_url_new_issue">https://github.com/yattoz/Tsumugi-app/issues/</string>
     <string name="website_url">https://tsumugi.forum-thalie.fr/</string>
     <string name="rss_url">https://tsumugi.forum-thalie.fr/?feed=rss2</string>
-    <string name="API_URL">https://radio.mahoro-net.org/airtime/api/live-info-v2</string>
-    <string name="planning_url">ADD SOME URL HERE</string>
+    <string name="API_URL">https://cleo.shoutca.st/api/nowplaying_static/webradiogiardinolive.json</string>
+    <string name="planning_url">https://cleo.shoutca.st/api/nowplaying_static/webradiogiardinolive.json</string>
 
 
     <string name="app_name">Tsumugi</string>
